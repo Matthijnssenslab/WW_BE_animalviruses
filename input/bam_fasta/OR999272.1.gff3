@@ -1,0 +1,9 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region OR999272.1 1 2042
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1414603
+OR999272.1	Genbank	region	1	2042	.	+	.	ID=OR999272.1:1..2042;Dbxref=taxon:1414603;Is_circular=true;collection-date=2022-05-30;country=Poland;gbkey=Src;genome=genomic;isolate=SII_3b_C5;isolation-source=cloaca swab;mol_type=genomic DNA;nat-host=Columba livia
+OR999272.1	Genbank	CDS	55	1002	.	+	0	ID=cds-WZH65411.1;Dbxref=NCBI_GP:WZH65411.1;Name=WZH65411.1;gbkey=CDS;product=replication associated protein;protein_id=WZH65411.1
+OR999272.1	Genbank	CDS	1173	1994	.	-	0	ID=cds-WZH65410.1;Dbxref=NCBI_GP:WZH65410.1;Name=WZH65410.1;gbkey=CDS;product=capsid protein;protein_id=WZH65410.1
+

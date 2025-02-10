@@ -1,0 +1,15 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_022800.1 1 5479
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1417756
+NC_022800.1	RefSeq	region	1	5479	.	+	.	ID=NC_022800.1:1..5479;Dbxref=taxon:1417756;collection-date=01-Dec-2012;country=Portugal;gbkey=Src;genome=genomic;isolate=POR1;mol_type=genomic DNA;nat-host=Felis catus
+NC_022800.1	RefSeq	gene	320	2713	.	+	.	ID=gene-FBoV2_gp1;Dbxref=GeneID:17623013;Name=NS1;gbkey=Gene;gene=NS1;gene_biotype=protein_coding;locus_tag=FBoV2_gp1
+NC_022800.1	RefSeq	CDS	320	2713	.	+	0	ID=cds-YP_008802580.1;Parent=gene-FBoV2_gp1;Dbxref=GenBank:YP_008802580.1,GeneID:17623013;Name=YP_008802580.1;gbkey=CDS;gene=NS1;locus_tag=FBoV2_gp1;product=NS1;protein_id=YP_008802580.1
+NC_022800.1	RefSeq	gene	2490	3179	.	+	.	ID=gene-FBoV2_gp2;Dbxref=GeneID:17623010;Name=NP1;gbkey=Gene;gene=NP1;gene_biotype=protein_coding;locus_tag=FBoV2_gp2
+NC_022800.1	RefSeq	CDS	2490	3179	.	+	0	ID=cds-YP_008802581.1;Parent=gene-FBoV2_gp2;Dbxref=GenBank:YP_008802581.1,GeneID:17623010;Name=YP_008802581.1;gbkey=CDS;gene=NP1;locus_tag=FBoV2_gp2;product=NP1;protein_id=YP_008802581.1
+NC_022800.1	RefSeq	gene	3163	5322	.	+	.	ID=gene-FBoV2_gp3;Dbxref=GeneID:17623011;Name=VP1;gbkey=Gene;gene=VP1;gene_biotype=protein_coding;locus_tag=FBoV2_gp3
+NC_022800.1	RefSeq	CDS	3163	5322	.	+	0	ID=cds-YP_008802582.1;Parent=gene-FBoV2_gp3;Dbxref=GenBank:YP_008802582.1,GeneID:17623011;Name=YP_008802582.1;gbkey=CDS;gene=VP1;locus_tag=FBoV2_gp3;product=VP1;protein_id=YP_008802582.1
+NC_022800.1	RefSeq	gene	3586	5322	.	+	.	ID=gene-FBoV2_gp4;Dbxref=GeneID:17623012;Name=VP2;gbkey=Gene;gene=VP2;gene_biotype=protein_coding;locus_tag=FBoV2_gp4
+NC_022800.1	RefSeq	CDS	3586	5322	.	+	0	ID=cds-YP_008802583.1;Parent=gene-FBoV2_gp4;Dbxref=GenBank:YP_008802583.1,GeneID:17623012;Name=YP_008802583.1;gbkey=CDS;gene=VP2;locus_tag=FBoV2_gp4;product=VP2;protein_id=YP_008802583.1
+

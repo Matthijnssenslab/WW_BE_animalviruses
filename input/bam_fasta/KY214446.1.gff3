@@ -1,0 +1,9 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region KY214446.1 1 5196
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=329639
+KY214446.1	Genbank	region	1	5196	.	+	.	ID=KY214446.1:1..5196;Dbxref=taxon:329639;collection-date=2011;country=Portugal;gbkey=Src;genome=genomic;isolate=South Douro;mol_type=genomic DNA;nat-host=Canis lupus familiaris (pet dog)
+KY214446.1	Genbank	CDS	345	2669	.	+	0	ID=cds-ASM93492.1;Dbxref=NCBI_GP:ASM93492.1;Name=ASM93492.1;gbkey=CDS;product=NS1;protein_id=ASM93492.1
+KY214446.1	Genbank	CDS	3023	5134	.	+	0	ID=cds-ASM93493.1;Dbxref=NCBI_GP:ASM93493.1;Name=ASM93493.1;gbkey=CDS;product=VP1;protein_id=ASM93493.1
+

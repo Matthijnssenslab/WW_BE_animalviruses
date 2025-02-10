@@ -1,0 +1,11 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region MH367845.1 1 2000
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1868221
+MH367845.1	Genbank	region	1	2000	.	+	.	ID=MH367845.1:1..2000;Dbxref=taxon:1868221;Is_circular=true;gbkey=Src;genome=genomic;mol_type=genomic DNA;strain=PCV3/CN/GDCC/2017
+MH367845.1	Genbank	gene	216	1106	.	+	.	ID=gene-rep;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;partial=true;start_range=.,216
+MH367845.1	Genbank	CDS	216	1106	.	+	0	ID=cds-QBB02161.1;Parent=gene-rep;Dbxref=NCBI_GP:QBB02161.1;Name=QBB02161.1;gbkey=CDS;gene=rep;partial=true;product=replication-associated protein;protein_id=QBB02161.1;start_range=.,216
+MH367845.1	Genbank	gene	1336	1980	.	-	.	ID=gene-cap;Name=cap;gbkey=Gene;gene=cap;gene_biotype=protein_coding
+MH367845.1	Genbank	CDS	1336	1980	.	-	0	ID=cds-QBB02160.1;Parent=gene-cap;Dbxref=NCBI_GP:QBB02160.1;Name=QBB02160.1;gbkey=CDS;gene=cap;product=capsid protein;protein_id=QBB02160.1
+

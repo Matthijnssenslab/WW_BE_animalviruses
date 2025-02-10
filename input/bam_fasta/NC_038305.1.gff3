@@ -1,0 +1,9 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_038305.1 1 8530
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2034827
+NC_038305.1	RefSeq	region	1	8530	.	+	.	ID=NC_038305.1:1..8530;Dbxref=taxon:2034827;collection-date=17-Dec-2010;country=USA;gbkey=Src;genome=genomic;isolate=BCV-1;mol_type=genomic RNA;nat-host=Rattus norvegicus;old-name=Boone cardiovirus 1
+NC_038305.1	RefSeq	gene	1452	8363	.	+	.	ID=gene-D1P30_gp1;Dbxref=GeneID:37616472;Name=D1P30_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1P30_gp1
+NC_038305.1	RefSeq	CDS	1452	8363	.	+	0	ID=cds-YP_009505602.1;Parent=gene-D1P30_gp1;Dbxref=GenBank:YP_009505602.1,GeneID:37616472;Name=YP_009505602.1;gbkey=CDS;locus_tag=D1P30_gp1;product=polyprotein;protein_id=YP_009505602.1
+

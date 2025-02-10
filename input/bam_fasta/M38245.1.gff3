@@ -1,0 +1,11 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region M38245.1 1 5124
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10788
+M38245.1	Genbank	region	1	5124	.	+	.	ID=M38245.1:1..5124;Dbxref=taxon:10788;gbkey=Src;isolate=790312;map=position 1-100;mol_type=genomic DNA;strain=CPV-b
+M38245.1	Genbank	CDS	273	2279	.	+	0	ID=cds-AAB02798.1;Dbxref=NCBI_GP:AAB02798.1;Name=AAB02798.1;Note=NS-1 gene;gbkey=CDS;product=NS1 protein;protein_id=AAB02798.1
+M38245.1	Genbank	CDS	2286	2317	.	+	0	ID=cds-AAB02799.1;Dbxref=NCBI_GP:AAB02799.1;Name=AAB02799.1;Note=alternatively spliced;gbkey=CDS;product=capsid protein VP1;protein_id=AAB02799.1
+M38245.1	Genbank	CDS	2390	4541	.	+	1	ID=cds-AAB02799.1;Dbxref=NCBI_GP:AAB02799.1;Name=AAB02799.1;Note=alternatively spliced;gbkey=CDS;product=capsid protein VP1;protein_id=AAB02799.1
+M38245.1	Genbank	CDS	2787	4541	.	+	0	ID=cds-AAB02800.1;Dbxref=NCBI_GP:AAB02800.1;Name=AAB02800.1;Note=alternatively spliced;gbkey=CDS;product=capsid protein VP2;protein_id=AAB02800.1
+

@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region OQ715758.1 1 28697
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1508224
+OQ715758.1	Genbank	region	1	28697	.	+	.	ID=OQ715758.1:1..28697;Dbxref=taxon:1508224;country=China: Wenzhou;environmental-sample=true;gbkey=Src;genome=genomic;isolate=WZ_Le.edwardsi_alphacorona_1;metagenome-source=rodent metagenome;metagenomic=true;mol_type=genomic RNA;nat-host=Leopoldamys edwardsi
+OQ715758.1	Genbank	CDS	324	12503	.	+	0	ID=cds-WPV62951.1;Dbxref=NCBI_GP:WPV62951.1;Name=WPV62951.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=WPV62951.1
+OQ715758.1	Genbank	CDS	12503	20545	.	+	0	ID=cds-WPV62951.1;Dbxref=NCBI_GP:WPV62951.1;Name=WPV62951.1;exception=ribosomal slippage;gbkey=CDS;product=ORF1ab polyprotein;protein_id=WPV62951.1
+OQ715758.1	Genbank	CDS	20545	21369	.	+	0	ID=cds-WPV62952.1;Dbxref=NCBI_GP:WPV62952.1;Name=WPV62952.1;gbkey=CDS;product=ORF2 protein;protein_id=WPV62952.1
+OQ715758.1	Genbank	CDS	21362	24781	.	+	0	ID=cds-WPV62953.1;Dbxref=NCBI_GP:WPV62953.1;Name=WPV62953.1;gbkey=CDS;product=spike protein;protein_id=WPV62953.1
+OQ715758.1	Genbank	CDS	24778	25422	.	+	0	ID=cds-WPV62954.1;Dbxref=NCBI_GP:WPV62954.1;Name=WPV62954.1;gbkey=CDS;product=ORF4 protein;protein_id=WPV62954.1
+OQ715758.1	Genbank	CDS	25422	25658	.	+	0	ID=cds-WPV62955.1;Dbxref=NCBI_GP:WPV62955.1;Name=WPV62955.1;gbkey=CDS;product=E protein;protein_id=WPV62955.1
+OQ715758.1	Genbank	CDS	25668	26411	.	+	0	ID=cds-WPV62956.1;Dbxref=NCBI_GP:WPV62956.1;Name=WPV62956.1;gbkey=CDS;product=M protein;protein_id=WPV62956.1
+OQ715758.1	Genbank	CDS	26423	26920	.	+	0	ID=cds-WPV62957.1;Dbxref=NCBI_GP:WPV62957.1;Name=WPV62957.1;gbkey=CDS;product=ORF7 protein;protein_id=WPV62957.1
+OQ715758.1	Genbank	CDS	26936	28111	.	+	0	ID=cds-WPV62958.1;Dbxref=NCBI_GP:WPV62958.1;Name=WPV62958.1;gbkey=CDS;product=N protein;protein_id=WPV62958.1
+OQ715758.1	Genbank	CDS	28098	28427	.	+	0	ID=cds-WPV62959.1;Dbxref=NCBI_GP:WPV62959.1;Name=WPV62959.1;gbkey=CDS;product=ORF9 protein;protein_id=WPV62959.1
+

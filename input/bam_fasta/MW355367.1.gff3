@@ -1,0 +1,13 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region MW355367.1 1 7196
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=291484
+MW355367.1	Genbank	region	1	7196	.	+	.	ID=MW355367.1:1..7196;Dbxref=taxon:291484;collection-date=2019-02-12;country=France;gbkey=Src;genotype=3.0;isolate=HESQL041;isolation-source=blood;mol_type=genomic RNA
+MW355367.1	Genbank	gene	14	5125	.	+	.	ID=gene-HEV_000001;Name=HEV_000001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HEV_000001
+MW355367.1	Genbank	CDS	14	5125	.	+	0	ID=cds-QSD99384.1;Parent=gene-HEV_000001;Dbxref=NCBI_GP:QSD99384.1;Name=QSD99384.1;gbkey=CDS;locus_tag=HEV_000001;product=ORF1 protein;protein_id=QSD99384.1
+MW355367.1	Genbank	gene	5149	5490	.	+	.	ID=gene-HEV_000002;Name=HEV_000002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HEV_000002
+MW355367.1	Genbank	CDS	5149	5490	.	+	0	ID=cds-QSD99385.1;Parent=gene-HEV_000002;Dbxref=NCBI_GP:QSD99385.1;Name=QSD99385.1;gbkey=CDS;locus_tag=HEV_000002;product=ORF3 protein;protein_id=QSD99385.1
+MW355367.1	Genbank	gene	5160	7142	.	+	.	ID=gene-HEV_000003;Name=HEV_000003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HEV_000003
+MW355367.1	Genbank	CDS	5160	7142	.	+	0	ID=cds-QSD99386.1;Parent=gene-HEV_000003;Dbxref=NCBI_GP:QSD99386.1;Name=QSD99386.1;gbkey=CDS;locus_tag=HEV_000003;product=ORF2 protein;protein_id=QSD99386.1
+

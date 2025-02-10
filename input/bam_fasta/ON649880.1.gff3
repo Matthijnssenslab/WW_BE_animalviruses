@@ -1,0 +1,20 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region ON649880.1 1 28262
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=237020
+ON649880.1	Genbank	region	1	28262	.	+	.	ID=ON649880.1:1..28262;Dbxref=taxon:237020;collection-date=06-Jun-2017;country=Spain;gbkey=Src;genome=genomic;isolate=SP-VC29;isolation-source=feces;mol_type=genomic RNA;nat-host=Sus scrofa
+ON649880.1	Genbank	five_prime_UTR	1	719	.	+	.	ID=id-ON649880.1:1..719;gbkey=5'UTR
+ON649880.1	Genbank	CDS	720	13972	.	+	0	ID=cds-UXP87487.1;Dbxref=NCBI_GP:UXP87487.1;Name=UXP87487.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=UXP87487.1
+ON649880.1	Genbank	CDS	13972	20848	.	+	1	ID=cds-UXP87487.1;Dbxref=NCBI_GP:UXP87487.1;Name=UXP87487.1;exception=ribosomal slippage;gbkey=CDS;product=polyprotein 1ab;protein_id=UXP87487.1
+ON649880.1	Genbank	CDS	720	13985	.	+	0	ID=cds-UXP87483.1;Dbxref=NCBI_GP:UXP87483.1;Name=UXP87483.1;gbkey=CDS;product=replicase;protein_id=UXP87483.1
+ON649880.1	Genbank	gene	20764	25485	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+ON649880.1	Genbank	CDS	20764	25485	.	+	0	ID=cds-UXP87484.1;Parent=gene-S;Dbxref=NCBI_GP:UXP87484.1;Name=UXP87484.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=UXP87484.1
+ON649880.1	Genbank	gene	25514	26215	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+ON649880.1	Genbank	CDS	25514	26215	.	+	0	ID=cds-UXP87485.1;Parent=gene-M;Dbxref=NCBI_GP:UXP87485.1;Name=UXP87485.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=UXP87485.1
+ON649880.1	Genbank	gene	26233	27513	.	+	.	ID=gene-HE;Name=HE;gbkey=Gene;gene=HE;gene_biotype=protein_coding
+ON649880.1	Genbank	CDS	26233	27513	.	+	0	ID=cds-UXP87486.1;Parent=gene-HE;Dbxref=NCBI_GP:UXP87486.1;Name=UXP87486.1;gbkey=CDS;gene=HE;product=hemagglutinin esterase;protein_id=UXP87486.1
+ON649880.1	Genbank	gene	27556	28047	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+ON649880.1	Genbank	CDS	27556	28047	.	+	0	ID=cds-UXP87488.1;Parent=gene-N;Dbxref=NCBI_GP:UXP87488.1;Name=UXP87488.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=UXP87488.1
+ON649880.1	Genbank	three_prime_UTR	28048	28243	.	+	.	ID=id-ON649880.1:28048..28243;gbkey=3'UTR
+

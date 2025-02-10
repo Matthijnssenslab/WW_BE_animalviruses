@@ -1,0 +1,22 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_038504.1 1 6965
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879096
+NC_038504.1	RefSeq	region	1	6965	.	+	.	ID=NC_038504.1:1..6965;Dbxref=taxon:879096;collection-date=2009;country=Germany;gbkey=Src;genome=genomic;isolate=R63;isolation-source=liver;mol_type=genomic RNA;nat-host=Rattus norvegicus (wild rat)
+NC_038504.1	RefSeq	five_prime_UTR	1	10	.	+	.	ID=id-NC_038504.1:1..10;gbkey=5'UTR
+NC_038504.1	RefSeq	gene	11	4921	.	+	.	ID=gene-D1R26_gp1;Dbxref=GeneID:37617594;Name=D1R26_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp1
+NC_038504.1	RefSeq	CDS	11	4921	.	+	0	ID=cds-YP_009506650.1;Parent=gene-D1R26_gp1;Dbxref=GenBank:YP_009506650.1,GeneID:37617594;Name=YP_009506650.1;Note=ORF1;gbkey=CDS;locus_tag=D1R26_gp1;product=polyprotein;protein_id=YP_009506650.1
+NC_038504.1	RefSeq	gene	27	578	.	+	.	ID=gene-D1R26_gp2;Dbxref=GeneID:37617589;Name=D1R26_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp2
+NC_038504.1	RefSeq	CDS	27	578	.	+	0	ID=cds-YP_009506651.1;Parent=gene-D1R26_gp2;Dbxref=GenBank:YP_009506651.1,GeneID:37617589;Name=YP_009506651.1;Note=ORF4;gbkey=CDS;locus_tag=D1R26_gp2;product=hypothetical protein;protein_id=YP_009506651.1
+NC_038504.1	RefSeq	gene	2271	2888	.	+	.	ID=gene-D1R26_gp3;Dbxref=GeneID:37617590;Name=D1R26_gp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp3
+NC_038504.1	RefSeq	CDS	2271	2888	.	+	0	ID=cds-YP_009506652.1;Parent=gene-D1R26_gp3;Dbxref=GenBank:YP_009506652.1,GeneID:37617590;Name=YP_009506652.1;Note=ORF5;gbkey=CDS;locus_tag=D1R26_gp3;product=hypothetical protein;protein_id=YP_009506652.1
+NC_038504.1	RefSeq	gene	4938	5246	.	+	.	ID=gene-D1R26_gp4;Dbxref=GeneID:37617591;Name=D1R26_gp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp4
+NC_038504.1	RefSeq	CDS	4938	5246	.	+	0	ID=cds-YP_009506653.1;Parent=gene-D1R26_gp4;Dbxref=GenBank:YP_009506653.1,GeneID:37617591;Name=YP_009506653.1;Note=ORF3;gbkey=CDS;locus_tag=D1R26_gp4;product=phosphoprotein;protein_id=YP_009506653.1
+NC_038504.1	RefSeq	gene	4949	6883	.	+	.	ID=gene-D1R26_gp5;Dbxref=GeneID:37617592;Name=D1R26_gp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp5
+NC_038504.1	RefSeq	CDS	4949	6883	.	+	0	ID=cds-YP_009506654.1;Parent=gene-D1R26_gp5;Dbxref=GenBank:YP_009506654.1,GeneID:37617592;Name=YP_009506654.1;Note=ORF2;gbkey=CDS;locus_tag=D1R26_gp5;product=capsid protein;protein_id=YP_009506654.1
+NC_038504.1	RefSeq	gene	6480	6755	.	+	.	ID=gene-D1R26_gp6;Dbxref=GeneID:37617593;Name=D1R26_gp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D1R26_gp6
+NC_038504.1	RefSeq	CDS	6480	6755	.	+	0	ID=cds-YP_009506655.1;Parent=gene-D1R26_gp6;Dbxref=GenBank:YP_009506655.1,GeneID:37617593;Name=YP_009506655.1;Note=ORF6;gbkey=CDS;locus_tag=D1R26_gp6;product=hypothetical protein;protein_id=YP_009506655.1
+NC_038504.1	RefSeq	three_prime_UTR	6884	6965	.	+	.	ID=id-NC_038504.1:6884..6965;gbkey=3'UTR
+NC_038504.1	RefSeq	polyA_site	6949	6949	.	+	.	ID=id-NC_038504.1:6949..6949;gbkey=polyA_site
+

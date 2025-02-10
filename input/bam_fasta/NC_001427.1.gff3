@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_001427.1 1 2319
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12618
+NC_001427.1	RefSeq	region	1	2319	.	+	.	ID=NC_001427.1:1..2319;Dbxref=taxon:12618;Is_circular=true;gbkey=Src;genome=genomic;mol_type=genomic DNA
+NC_001427.1	RefSeq	gene	57	332	.	+	.	ID=gene-CAVgp1;Dbxref=GeneID:1724885;Name=CAVgp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CAVgp1
+NC_001427.1	RefSeq	CDS	57	332	.	+	0	ID=cds-NP_595041.1;Parent=gene-CAVgp1;Dbxref=GenBank:NP_595041.1,GeneID:1724885;Name=NP_595041.1;gbkey=CDS;locus_tag=CAVgp1;product=hypothetical protein;protein_id=NP_595041.1
+NC_001427.1	RefSeq	repeat_region	144	260	.	+	.	ID=id-CAVgp1;Dbxref=GeneID:1724885;Note=21-bp repeats with ATF sites;gbkey=repeat_region;locus_tag=CAVgp1;rpt_unit_range=240..260
+NC_001427.1	RefSeq	CAAT_signal	261	266	.	+	.	ID=id-CAVgp1-2;Parent=gene-CAVgp1;Dbxref=GeneID:1724885;gbkey=regulatory;locus_tag=CAVgp1;regulatory_class=CAAT_signal
+NC_001427.1	RefSeq	promoter	305	310	.	+	.	ID=id-CAVgp1-3;Parent=gene-CAVgp1;Dbxref=GeneID:1724885;Note=SP1 box;gbkey=regulatory;locus_tag=CAVgp1;regulatory_class=promoter
+NC_001427.1	RefSeq	TATA_box	323	328	.	+	.	ID=id-CAVgp1-4;Parent=gene-CAVgp1;Dbxref=GeneID:1724885;gbkey=regulatory;locus_tag=CAVgp1;regulatory_class=TATA_box
+NC_001427.1	RefSeq	gene	144	2292	.	+	.	ID=gene-CAVgp2;Dbxref=GeneID:1494446;Name=Cux-1;gbkey=Gene;gene=Cux-1;gene_biotype=protein_coding;locus_tag=CAVgp2
+NC_001427.1	RefSeq	CDS	380	1030	.	+	0	ID=cds-NP_056773.1;Parent=gene-CAVgp2;Dbxref=GenBank:NP_056773.1,GeneID:1494446;Name=NP_056773.1;gbkey=CDS;gene=Cux-1;locus_tag=CAVgp2;product=hypothetical protein;protein_id=NP_056773.1
+NC_001427.1	RefSeq	CDS	486	851	.	+	0	ID=cds-NP_056774.1;Parent=gene-CAVgp2;Dbxref=GenBank:NP_056774.1,GeneID:1494446;Name=NP_056774.1;gbkey=CDS;gene=Cux-1;locus_tag=CAVgp2;product=APOPTIN;protein_id=NP_056774.1
+NC_001427.1	RefSeq	CDS	853	2202	.	+	0	ID=cds-NP_056775.1;Parent=gene-CAVgp2;Dbxref=GenBank:NP_056775.1,GeneID:1494446;Name=NP_056775.1;gbkey=CDS;gene=Cux-1;locus_tag=CAVgp2;product=nucleocapsid protein;protein_id=NP_056775.1
+NC_001427.1	RefSeq	polyA_signal_sequence	2287	2292	.	+	.	ID=id-CAVgp2;Parent=gene-CAVgp2;Dbxref=GeneID:1494446;gbkey=regulatory;gene=Cux-1;locus_tag=CAVgp2;regulatory_class=polyA_signal_sequence
+
